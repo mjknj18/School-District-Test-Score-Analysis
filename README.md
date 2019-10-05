@@ -15,6 +15,10 @@
 7. What percentage of all students have a passing reading test score (70 or above)?
 8. What is the overall percentage of students passing the math and reading tests?
 
+### School Summary
+
+
+
 ### Top Performing Schools
 
 
@@ -54,6 +58,10 @@
 
 
 
+### School Summary
+
+
+
 ### Top Performing Schools
 
 
@@ -90,6 +98,10 @@
 
 <img src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/District%20Summary.JPG">
 
+### School Summary
+
+<img src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/School%20Summary.JPG">
+
 ### Top Performing Schools
 
 <img src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Top%20Performing%20Schools.JPG">
@@ -121,6 +133,10 @@
 ## Observations
 
 ### District Summary
+
+
+
+### School Summary
 
 
 
