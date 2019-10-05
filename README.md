@@ -6,7 +6,14 @@
 
 ### District Summary
 
-
+1. How many schools are included in the district?
+2. How many students are included in the district?
+3. What is the combined total budget of all the schools in the district?
+4. What is the average math test score of all the students in the district?
+5. What is the averae reading test score of all the students in the district?
+6. What percentage of all students have a passing math test score (70 or above)?
+7. What percentage of all students have a passing reading test score (70 or above)?
+8. What is the overall percentage of students passing the math and reading tests?
 
 ### Top Performing Schools
 
