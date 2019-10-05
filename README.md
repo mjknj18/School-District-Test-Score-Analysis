@@ -4,6 +4,36 @@
 
 ## Questions
 
+### District Summary
+
+
+
+### Top Performing Schools
+
+
+
+### Bottom Performing Schools
+
+
+
+### Math Test Scores by Grade
+
+
+
+### Reading Test Scores by Grade
+
+
+
+### Average Test Scores by School Spending
+
+
+
+### Average Test Scores by School Size
+
+
+
+### Average Test Scores by School Type
+
 
 
 ## Datasets
@@ -12,6 +42,36 @@
 2. https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/School%20District%20Data/students_complete.csv
 
 ## Tasks
+
+### District Summary
+
+
+
+### Top Performing Schools
+
+
+
+### Bottom Performing Schools
+
+
+
+### Math Test Scores by Grade
+
+
+
+### Reading Test Scores by Grade
+
+
+
+### Average Test Scores by School Spending
+
+
+
+### Average Test Scores by School Size
+
+
+
+### Average Test Scores by School Type
 
 
 
@@ -53,6 +113,35 @@
 
 ## Observations
 
+### District Summary
+
+
+
+### Top Performing Schools
+
+
+
+### Bottom Performing Schools
+
+
+
+### Math Test Scores by Grade
+
+
+
+### Reading Test Scores by Grade
+
+
+
+### Average Test Scores by School Spending
+
+
+
+### Average Test Scores by School Size
+
+
+
+### Average Test Scores by School Type
 
 
 ## Disclaimer
