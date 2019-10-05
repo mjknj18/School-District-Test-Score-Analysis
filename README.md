@@ -21,35 +21,35 @@
 
 ### District Summary
 
-img_src = <https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/District%20Summary.JPG>
+<img_src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/District%20Summary.JPG">
 
 ### Top Performing Schools
 
-img_src = <https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Top%20Performing%20Schools.JPG>
+<img_src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Top%20Performing%20Schools.JPG">
 
 ### Bottom Performing Schools
 
-img_src = <https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Bottom%20Performing%20Schools.JPG>
+<img_src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Bottom%20Performing%20Schools.JPG">
 
 ### Math Test Scores by Grade
 
-img_src = <https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Math%20Scores%20by%20Grade.JPG>
+<img_src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Math%20Scores%20by%20Grade.JPG">
 
 ### Reading Test Scores by Grade
 
-img_src = <https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Reading%20Scores%20by%20Grade.JPG>
+<img_src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Reading%20Scores%20by%20Grade.JPG">
 
 ### Average Test Scores by School Spending
 
-img_src = <https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Scores%20by%20School%20Spending.JPG>
+<img_src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Scores%20by%20School%20Spending.JPG">
 
 ### Average Test Scores by School Size
 
-img_src = <https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Scores%20by%20School%20Size.JPG>
+<img_src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Scores%20by%20School%20Size.JPG">
 
 ### Average Test Scores by School Type
 
-img_src = <https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Scores%20by%20School%20Type.JPG>
+<img_src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Scores%20by%20School%20Type.JPG">
 
 ## Observations
 
