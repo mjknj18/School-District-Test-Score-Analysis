@@ -8,7 +8,8 @@
 
 ## Datasets
 
-
+1. https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/School%20District%20Data/schools_complete.csv
+2. https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/School%20District%20Data/students_complete.csv
 
 ## Tasks
 
@@ -16,7 +17,7 @@
 
 ## Results
 
-
+1. https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/School_District_Test_Analysis_Main.ipynb
 
 ## Observations
 
