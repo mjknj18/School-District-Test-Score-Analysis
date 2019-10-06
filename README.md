@@ -140,11 +140,17 @@ The goal of this project was to calculate and display various performance metric
 
 ### Math Test Scores by Grade
 
-
+1. Split combined data frame into groups by grade level.
+2. Split groups for each grade level into sub-groups by school name.
+3. Calculate average math test scores for all students of each grade level in each school.
+4. Output calculated values to math scores data frame.
 
 ### Reading Test Scores by Grade
 
-
+1. Split combined data frame into groups by grade level.
+2. Split groups for each grade level into sub-groups by school name.
+3. Calculate average reading test scores for all students of each grade level in each school.
+4. Output calculated values to reading scores data frame.
 
 ### Average Test Scores by School Spending
 
