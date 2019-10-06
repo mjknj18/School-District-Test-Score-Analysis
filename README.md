@@ -180,7 +180,9 @@ The goal of this project was to calculate and display various performance metric
 
 ## Conclusions
 
+The first conclusion that can be drawn is that charter schools with smaller total student counts had the highest overall passing rates for math and reading tests. At the same time, district schools with larger total student counts had the lowest overall passing rates for math and reading tests. Since the average budget per student for the charter and district schools were roughly in the same range, a good explanation for this trend is that the smaller student population in charter schools allows for smaller class sizes and more personalized learning. This approach would allow students to retain math and reading knowledge better and score higher on the tests, and just wouldn't be possible in a district school with double or triple the student population.
 
+A second conclusion that can be drawn from the data is that no correlation exists between a student's grade level and how they scored on the math and reading tests. For all fourteen schools included in this analysis, the average test scores for each subject were within two percentage points across the four grade levels. In some cases the average test scores increased with grade level, in others they decreased, and in some there was no trend at all. The school itself was definitely more of a defining factor in student test performance than what level a student was at within that school.
 
 ## Disclaimer
 
