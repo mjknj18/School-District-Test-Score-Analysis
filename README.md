@@ -104,15 +104,15 @@ The goal of this project was to calculate and display various performance metric
 ### District Summary
 
 1. Import school data and student data CSV files as individual Pandas data frames.
-2. Merge individual data frames into combined data frame based on school name.
+2. Merge individual data frames into a combined data frame based on school name.
 3. Calculate the total number of schools in the district.
 4. Calculate the total number of students in the district.
 5. Calculate the average math test score of all students in the district.
 6. Calculate the average reading test score of all students in the district.
 7. Calculate the percentage of all students in the district that have a passing math test score.
 8. Calculate the percentage of all students in the district that have a passing reading test score.
-9. Calculate the overall percentage of students in the district that are passing the math and reading tests.
-10. Output calculated values to district summary data frame.
+9. Calculate the overall percentage of students in the district that are passing either the math and reading tests.
+10. Output calculated values to the district summary data frame.
 
 ### School Summary
 
@@ -125,18 +125,18 @@ The goal of this project was to calculate and display various performance metric
 7. Calculate the average reading test score of all students in each school.
 8. Calculate the percentage of all students in each school that have a passing math test score.
 9. Calculate the percentage of all students in each school that have a passing reading test score.
-10. Calcuate overall percentage of students in each school that are passing the math and reading tests.
-11. Output extracted and calculated values to school summary data frame.
+10. Calculate overall percentage of students in each school that are passing either the math and reading tests.
+11. Output extracted and calculated values to the school summary data frame.
 
 ### Top Performing Schools
 
-1. Sort school summary data frame by best overall passing percentages.
-2. Output summary data for top five performing schools in best schools data frame.
+1. Sort school summary data frame by best overall passing percentage.
+2. Output summary data for top five performing schools in the top performing schools data frame.
 
 ### Bottom Performing Schools
 
-1. Sort school summary data frame by worst overall passing percentages.
-2. Output summary data for bottom five performing schools in worst schools data frame.
+1. Sort school summary data frame by worst overall passing percentage.
+2. Output summary data for bottom five performing schools in the bottom performing schools data frame.
 
 ### Math Test Scores by Grade
 
