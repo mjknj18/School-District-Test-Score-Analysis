@@ -13,7 +13,7 @@ The goal of this project was to calculate and display various performance metric
 5. What is the average reading test score of all the students in the district?
 6. What percentage of all students in the district have a passing math test score (70 or above)?
 7. What percentage of all students in the district have a passing reading test score (70 or above)?
-8. What is the overall percentage of students in the district passing the math and reading tests?
+8. What is the overall percentage of students in the district passing either the math and reading tests?
 
 ### School Summary
 
@@ -26,11 +26,11 @@ The goal of this project was to calculate and display various performance metric
 7. What is the average reading test score for all of the students in each school?
 8. What percentage of the students in each school have a passing math test score (70 or above)?
 9. What percentage of the students in each school have a passing reading test score (70 or above)?
-10. What is the overall percentage of students in each school passing the math and reading tests?
+10. What is the overall percentage of students in each school passing either the math and reading tests?
 
 ### Top Performing Schools
 
-1. Which schools are the top five in overall percentage of students passing the math and reading tests?
+1. Which schools are the top five in overall percentage of students passing either the math and reading tests?
 2. What is the type of each school?
 3. How many total students attend each school?
 4. What is the total budget for each school?
@@ -39,11 +39,11 @@ The goal of this project was to calculate and display various performance metric
 7. What is the average reading test score for all of the students in each school?
 8. What percentage of the students in each school have a passing math test score (70 or above)?
 9. What percentage of the students in each school have a passing reading test score (70 or above)?
-10. What is the overall percentage of students in each school passing the math and reading tests?
+10. What is the overall percentage of students in each school passing either the math and reading tests?
 
 ### Bottom Performing Schools
 
-1. Which schools are the bottom five in overall percentage of students passing the math and reading tests?
+1. Which schools are the bottom five in overall percentage of students passing either the math and reading tests?
 2. What is the type of each school?
 3. How many total students attend each school?
 4. What is the total budget for each school?
@@ -52,7 +52,7 @@ The goal of this project was to calculate and display various performance metric
 7. What is the average reading test score for all of the students in each school?
 8. What percentage of the students in each school have a passing math test score (70 or above)?
 9. What percentage of the students in each school have a passing reading test score (70 or above)?
-10. What is the overall percentage of students in each school passing the math and reading tests?
+10. What is the overall percentage of students in each school passing either the math and reading tests?
 
 ### Math Test Scores by Grade
 
@@ -75,7 +75,7 @@ The goal of this project was to calculate and display various performance metric
 3. For each spending range, what is the average reading test score for all students in the included schools?
 4. For each spending range, what percentage of all students in the included schools have a passing math test score (70 or above)?
 5. For each spending range, what percentage of all students in the included schools have a passing reading test score (70 or above)?
-6. For each spending range, what overall percentage of all students in the included schools are passing the math and reading tests?
+6. For each spending range, what overall percentage of all students in the included schools are passing either the math and reading tests?
 
 ### Average Test Scores by School Size
 
@@ -84,7 +84,7 @@ The goal of this project was to calculate and display various performance metric
 3. For each size range, what is the average reading test score for all students in the included schools?
 4. For each size range, what percentage of all students in the included schools have a passing math test score (70 or above)?
 5. For each size range, what percentage of all students in the included schools have a passing reading test score (70 or above)?
-6. For each size range, what overall percentage of all students in the included schools are passing the math and reading tests?
+6. For each size range, what overall percentage of all students in the included schools are passing either the math and reading tests?
 
 ### Average Test Scores by School Type
 
@@ -92,7 +92,7 @@ The goal of this project was to calculate and display various performance metric
 2. For each school type, what is the average reading test score for all students in the included schools?
 3. For each school type, what percentage of all students in the included schools have a passing math test score (70 or above)?
 4. For each school type, what percentage of all students in the included schools have a passing reading test score (70 or above)?
-5. For each school type, what overall percentage of all students in the included schools are passing the math and reading tests?
+5. For each school type, what overall percentage of all students in the included schools are passing either the math and reading tests?
 
 ## Datasets
 
