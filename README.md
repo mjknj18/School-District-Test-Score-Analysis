@@ -130,11 +130,13 @@ The goal of this project was to calculate and display various performance metric
 
 ### Top Performing Schools
 
-1. 
+1. Sort school summary data frame by best overall passing percentages.
+2. Output summary data for top five performing schools in best schools data frame.
 
 ### Bottom Performing Schools
 
-
+1. Sort school summary data frame by worst overall passing percentages.
+2. Output summary data for bottom five performing schools in worst schools data frame.
 
 ### Math Test Scores by Grade
 
