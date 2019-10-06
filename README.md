@@ -11,9 +11,9 @@ The goal of this project was to calculate and display various performance metric
 3. What is the combined total budget of all the schools in the district?
 4. What is the average math test score of all the students in the district?
 5. What is the average reading test score of all the students in the district?
-6. What percentage of all students have a passing math test score (70 or above)?
-7. What percentage of all students have a passing reading test score (70 or above)?
-8. What is the overall percentage of students passing the math and reading tests?
+6. What percentage of all students in the district have a passing math test score (70 or above)?
+7. What percentage of all students in the district have a passing reading test score (70 or above)?
+8. What is the overall percentage of students in the district passing the math and reading tests?
 
 ### School Summary
 
@@ -103,7 +103,15 @@ The goal of this project was to calculate and display various performance metric
 
 ### District Summary
 
-
+1. Import school data and student data CSV files as individual Pandas data frames.
+2. Merge individual data frames into combined data frame based on school name.
+3. Calculate the total number of schools in the district.
+4. Calculate the total number of students in the district.
+5. Calculate the average math test score of all students in the district.
+6. Calculate the average reading test score of all students in the district.
+7. Calculate the percentage of all students in the district that have a passing math test score.
+8. Calculate the percentage of all students in the district that have a passing reading test score.
+9. Calculate the overall percentage of students in the district that are passing the math and reading tests?
 
 ### School Summary
 
