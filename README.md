@@ -177,42 +177,6 @@
 
 <img src = "https://github.com/mjknj18/School-District-Test-Score-Analysis/blob/master/Results%20Screenshots/Scores%20by%20School%20Type.JPG">
 
-## Observations
-
-### District Summary
-
-
-
-### School Summary
-
-
-
-### Top Performing Schools
-
-
-
-### Bottom Performing Schools
-
-
-
-### Math Test Scores by Grade
-
-
-
-### Reading Test Scores by Grade
-
-
-
-### Average Test Scores by School Spending
-
-
-
-### Average Test Scores by School Size
-
-
-
-### Average Test Scores by School Type
-
 
 ## Conclusions
 
