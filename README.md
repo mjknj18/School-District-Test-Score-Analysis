@@ -1,6 +1,6 @@
 # School-District-Test-Score-Analysis
 
-The goal of this project was to calculate and display various performance metrics for a school district based on collected data from student math and reading test results. Since the baseline data was provided in CSV format, Python and Pandas (through Jupyter Notebooks) were used to clean and process the data, as well as calculate the desired outputs.
+The goal of this project was to calculate and display various performance metrics for a school district based on collected data from student math and reading test results. Since the baseline data was provided in CSV format, Python with Pandas (through Jupyter Notebooks) was used to clean and process the data, as well as calculate the desired outputs.
 
 ## Questions
 
