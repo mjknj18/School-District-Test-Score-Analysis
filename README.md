@@ -7,25 +7,52 @@
 ### District Summary
 
 1. How many schools are included in the district?
-2. How many students are included in the district?
+2. How many total students are included in the district?
 3. What is the combined total budget of all the schools in the district?
 4. What is the average math test score of all the students in the district?
-5. What is the averae reading test score of all the students in the district?
+5. What is the average reading test score of all the students in the district?
 6. What percentage of all students have a passing math test score (70 or above)?
 7. What percentage of all students have a passing reading test score (70 or above)?
 8. What is the overall percentage of students passing the math and reading tests?
 
 ### School Summary
 
-
+1. Which schools are included in the district?
+2. What is the type of each school?
+3. How many total students attend each school?
+4. What is the total budget for each school?
+5. What is the per student budget for each school?
+6. What is the average math test score for all of the students in each school?
+7. What is the average reading test score for all of the students in each school?
+8. What percentage of the students in each school have a passing math test score (70 or above)?
+9. What percentage of the students in each school have a passing reading test score (70 or above)?
+10. What is the overall percentage of students in each school passing the math and reading tests?
 
 ### Top Performing Schools
 
-
+1. Which schools are the top five in overall percentage of students passing the math and reading tests?
+2. What is the type of each school?
+3. How many total students attend each school?
+4. What is the total budget for each school?
+5. What is the per student budget for each school?
+6. What is the average math test score for all of the students in each school?
+7. What is the average reading test score for all of the students in each school?
+8. What percentage of the students in each school have a passing math test score (70 or above)?
+9. What percentage of the students in each school have a passing reading test score (70 or above)?
+10. What is the overall percentage of students in each school passing the math and reading tests?
 
 ### Bottom Performing Schools
 
-
+1. Which schools are the bottom five in overall percentage of students passing the math and reading tests?
+2. What is the type of each school?
+3. How many total students attend each school?
+4. What is the total budget for each school?
+5. What is the per student budget for each school?
+6. What is the average math test score for all of the students in each school?
+7. What is the average reading test score for all of the students in each school?
+8. What percentage of the students in each school have a passing math test score (70 or above)?
+9. What percentage of the students in each school have a passing reading test score (70 or above)?
+10. What is the overall percentage of students in each school passing the math and reading tests?
 
 ### Math Test Scores by Grade
 
