@@ -111,15 +111,26 @@ The goal of this project was to calculate and display various performance metric
 6. Calculate the average reading test score of all students in the district.
 7. Calculate the percentage of all students in the district that have a passing math test score.
 8. Calculate the percentage of all students in the district that have a passing reading test score.
-9. Calculate the overall percentage of students in the district that are passing the math and reading tests?
+9. Calculate the overall percentage of students in the district that are passing the math and reading tests.
+10. Output calculated values to district summary data frame.
 
 ### School Summary
 
-
+1. Split combined data frame into groups by school name.
+2. Extract the type of each school.
+3. Extract the total number of students attending each school.
+4. Extract the total budget for each school.
+5. Calculate per student budget for each school.
+6. Calculate the average math test score of all students in each school.
+7. Calculate the average reading test score of all students in each school.
+8. Calculate the percentage of all students in each school that have a passing math test score.
+9. Calculate the percentage of all students in each school that have a passing reading test score.
+10. Calcuate overall percentage of students in each school that are passing the math and reading tests.
+11. Output extracted and calculated values to school summary data frame.
 
 ### Top Performing Schools
 
-
+1. 
 
 ### Bottom Performing Schools
 
