@@ -56,23 +56,43 @@
 
 ### Math Test Scores by Grade
 
-
+1. What is the average math test score for all 9th grade students in each school?
+2. What is the average math test score for all 10th grade students in each school?
+3. What is the average math test score for all 11th grade students in each school?
+4. What is the average math test score for all 12th grade students in each school?
 
 ### Reading Test Scores by Grade
 
-
+1. What is the average reading test score for all 9th grade students in each school?
+2. What is the average reading test score for all 10th grade students in each school?
+3. What is the average reading test score for all 11th grade students in each school?
+4. What is the average reading test score for all 12th grade students in each school?
 
 ### Average Test Scores by School Spending
 
-
+1. What per student budget spending range does each school fall into?
+2. For each spending range, what is the average math test score for all students in the included schools?
+3. For each spending range, what is the average reading test score for all students in the included schools?
+4. For each spending range, what percentage of all students in the included schools have a passing math test score (70 or above)?
+5. For each spending range, what percentage of all students in the included schools have a passing reading test score (70 or above)?
+6. For each spending range, what overall percentage of all students in the included schools are passing the math and reading tests?
 
 ### Average Test Scores by School Size
 
-
+1. What total student size range does each school fall into?
+2. For each size range, what is the average math test score for all students in the included schools?
+3. For each size range, what is the average reading test score for all students in the included schools?
+4. For each size range, what percentage of all students in the included schools have a passing math test score (70 or above)?
+5. For each size range, what percentage of all students in the included schools have a passing reading test score (70 or above)?
+6. For each size range, what overall percentage of all students in the included schools are passing the math and reading tests?
 
 ### Average Test Scores by School Type
 
-
+1. For each school type, what is the average math test score for all students in the included schools?
+2. For each school type, what is the average reading test score for all students in the included schools?
+3. For each school type, what percentage of all students in the included schools have a passing math test score (70 or above)?
+4. For each school type, what percentage of all students in the included schools have a passing reading test score (70 or above)?
+5. For each school type, what overall percentage of all students in the included schools are passing the math and reading tests?
 
 ## Datasets
 
@@ -192,6 +212,10 @@
 
 
 ### Average Test Scores by School Type
+
+
+## Conclusions
+
 
 
 ## Disclaimer
