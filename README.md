@@ -103,7 +103,7 @@ The goal of this project was to calculate and display various performance metric
 
 ### District Summary
 
-1. Import school data and student data CSV files as individual Pandas data frames.
+1. Import the school data and student data CSV files as individual Pandas data frames.
 2. Merge individual data frames into a combined data frame based on school name.
 3. Calculate the total number of schools in the district.
 4. Calculate the total number of students in the district.
@@ -116,7 +116,7 @@ The goal of this project was to calculate and display various performance metric
 
 ### School Summary
 
-1. Split combined data frame into groups by school name.
+1. Split the combined data frame into groups by school name.
 2. Extract the type of each school.
 3. Extract the total number of students attending each school.
 4. Extract the total budget for each school.
@@ -140,51 +140,51 @@ The goal of this project was to calculate and display various performance metric
 
 ### Math Test Scores by Grade
 
-1. Split combined data frame into groups by grade level.
+1. Split the combined data frame into groups by grade level.
 2. Split groups for each grade level into sub-groups by school name.
 3. Calculate average math test scores for all students of each grade level in each school.
-4. Output calculated values to math scores data frame.
+4. Output calculated values to the math scores data frame.
 
 ### Reading Test Scores by Grade
 
-1. Split combined data frame into groups by grade level.
+1. Split the combined data frame into groups by grade level.
 2. Split groups for each grade level into sub-groups by school name.
 3. Calculate average reading test scores for all students of each grade level in each school.
-4. Output calculated values to reading scores data frame.
+4. Output calculated values to the reading scores data frame.
 
 ### Average Test Scores by School Spending
 
 1. Define per student budget spending ranges and range labels.
-2. Cut and bin school summary data frame based on per student budget spending ranges.
-3. Split school summary data frame into groups by per student budget spending ranges.
+2. Cut and bin the school summary data frame based on per student budget spending ranges.
+3. Split the school summary data frame into groups by per student budget spending ranges.
 4. Calculate the average math test score for all students in the schools within each spending range.
 5. Calculate the average reading test score for all students in the schools within each spending range.
 6. Calculate the percentage of all students in the schools within each spending range that have a passing math test score.
 7. Calculate the percentage of all students in the schools within each spending range that have a passing reading test score.
-8. Calculate the overall percentage of students in the schools within each spending range that are passing the math and reading tests.
-9. Output calculated values for each spending range to per student budget summary data frame.
+8. Calculate the overall percentage of students in the schools within each spending range that are passing either the math and reading tests.
+9. Output calculated values for each spending range to the per student budget summary data frame.
 
 ### Average Test Scores by School Size
 
 1. Define school size ranges and range labels.
-2. Cut and bin school summary data frame based on per student budget size ranges.
-3. Split school summary data frame into groups by per student budget size ranges.
+2. Cut and bin the school summary data frame based on per student budget size ranges.
+3. Split the school summary data frame into groups by per student budget size ranges.
 4. Calculate the average math test score for all students in the schools within each size range.
 5. Calculate the average reading test score for all students in the schools within each size range.
 6. Calculate the percentage of all students in the schools within each size range that have a passing math test score.
 7. Calculate the percentage of all students in the schools within each size range that have a passing reading test score.
-8. Calculate the overall percentage of students in the schools within each size range that are passing the math and reading tests.
-9. Output calculated values for each size range to school size summary data frame.
+8. Calculate the overall percentage of students in the schools within each size range that are passing either the math and reading tests.
+9. Output calculated values for each size range to the school size summary data frame.
 
 ### Average Test Scores by School Type
 
-1. Split school summary data frame into groups by school type.
+1. Split the school summary data frame into groups by school type.
 2. Calculate the average math test score for all students in the schools within each type category.
 3. Calculate the average reading test score for all students in the schools within each type category.
 4. Calculate the percentage of all students in the schools within each type category that have a passing math test score.
 5. Calculate the percentage of all students in the schools within each type category that have a passing reading test score.
-6. Calculate the overall percentage of students in the schools within each type category that are passing the math and reading tests.
-7. Output calculated values for each type category to school type summary data frame.
+6. Calculate the overall percentage of students in the schools within each type category that are passing either the math and reading tests.
+7. Output calculated values for each type category to the school type summary data frame.
 
 ## Results
 
